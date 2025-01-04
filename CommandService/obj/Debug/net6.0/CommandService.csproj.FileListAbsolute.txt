@@ -40,3 +40,4 @@ C:\Users\User\Documents\MicroService\PlatformService\CommandService\obj\Debug\ne
 C:\Users\User\Documents\MicroService\PlatformService\CommandService\obj\Debug\net6.0\CommandService.pdb
 C:\Users\User\Documents\MicroService\PlatformService\CommandService\obj\Debug\net6.0\CommandService.genruntimeconfig.cache
 C:\Users\User\Documents\MicroService\PlatformService\CommandService\obj\Debug\net6.0\ref\CommandService.dll
+C:\Users\User\Documents\MicroService\PlatformService\CommandService\obj\Debug\net6.0\CommandService.sourcelink.json
