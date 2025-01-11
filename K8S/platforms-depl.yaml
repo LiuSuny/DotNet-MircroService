@@ -34,3 +34,7 @@ spec:
     protocol: TCP
     port: 666
     targetPort: 666
+  - name: plafromgrpc
+    protocol: TCP
+    port: 666
+    targetPort: 666

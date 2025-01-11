@@ -41,3 +41,9 @@ C:\Users\User\Documents\MicroService\PlatformService\CommandService\obj\Debug\ne
 C:\Users\User\Documents\MicroService\PlatformService\CommandService\obj\Debug\net6.0\CommandService.genruntimeconfig.cache
 C:\Users\User\Documents\MicroService\PlatformService\CommandService\obj\Debug\net6.0\ref\CommandService.dll
 C:\Users\User\Documents\MicroService\PlatformService\CommandService\obj\Debug\net6.0\CommandService.sourcelink.json
+C:\Users\User\Documents\MicroService\PlatformService\CommandService\bin\Debug\net6.0\appsettings.Production.json
+C:\Users\User\Documents\MicroService\PlatformService\CommandService\bin\Debug\net6.0\RabbitMQ.Client.dll
+C:\Users\User\Documents\MicroService\PlatformService\CommandService\bin\Debug\net6.0\Google.Protobuf.dll
+C:\Users\User\Documents\MicroService\PlatformService\CommandService\bin\Debug\net6.0\Grpc.Core.Api.dll
+C:\Users\User\Documents\MicroService\PlatformService\CommandService\bin\Debug\net6.0\Grpc.Net.Client.dll
+C:\Users\User\Documents\MicroService\PlatformService\CommandService\bin\Debug\net6.0\Grpc.Net.Common.dll

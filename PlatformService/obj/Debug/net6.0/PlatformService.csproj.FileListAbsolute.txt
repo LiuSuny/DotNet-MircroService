@@ -1,5 +1,6 @@
 C:\Users\User\Documents\MicroService\PlatformService\PlatformService\bin\Debug\net6.0\appsettings.Development.json
 C:\Users\User\Documents\MicroService\PlatformService\PlatformService\bin\Debug\net6.0\appsettings.json
+C:\Users\User\Documents\MicroService\PlatformService\PlatformService\bin\Debug\net6.0\appsettings.Production.json
 C:\Users\User\Documents\MicroService\PlatformService\PlatformService\bin\Debug\net6.0\PlatformService.staticwebassets.endpoints.json
 C:\Users\User\Documents\MicroService\PlatformService\PlatformService\bin\Debug\net6.0\PlatformService.exe
 C:\Users\User\Documents\MicroService\PlatformService\PlatformService\bin\Debug\net6.0\PlatformService.deps.json
@@ -23,6 +24,7 @@ C:\Users\User\Documents\MicroService\PlatformService\PlatformService\bin\Debug\n
 C:\Users\User\Documents\MicroService\PlatformService\PlatformService\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
 C:\Users\User\Documents\MicroService\PlatformService\PlatformService\bin\Debug\net6.0\Microsoft.OpenApi.dll
 C:\Users\User\Documents\MicroService\PlatformService\PlatformService\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\User\Documents\MicroService\PlatformService\PlatformService\bin\Debug\net6.0\RabbitMQ.Client.dll
 C:\Users\User\Documents\MicroService\PlatformService\PlatformService\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
 C:\Users\User\Documents\MicroService\PlatformService\PlatformService\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 C:\Users\User\Documents\MicroService\PlatformService\PlatformService\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
@@ -52,6 +54,7 @@ C:\Users\User\Documents\MicroService\PlatformService\PlatformService\obj\Debug\n
 C:\Users\User\Documents\MicroService\PlatformService\PlatformService\obj\Debug\net6.0\PlatformService.csproj.CoreCompileInputs.cache
 C:\Users\User\Documents\MicroService\PlatformService\PlatformService\obj\Debug\net6.0\PlatformService.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\User\Documents\MicroService\PlatformService\PlatformService\obj\Debug\net6.0\PlatformService.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\User\Documents\MicroService\PlatformService\PlatformService\obj\Debug\net6.0\PlatformService.sourcelink.json
 C:\Users\User\Documents\MicroService\PlatformService\PlatformService\obj\Debug\net6.0\scopedcss\bundle\PlatformService.styles.css
 C:\Users\User\Documents\MicroService\PlatformService\PlatformService\obj\Debug\net6.0\staticwebassets.build.json
 C:\Users\User\Documents\MicroService\PlatformService\PlatformService\obj\Debug\net6.0\staticwebassets.development.json
@@ -68,5 +71,10 @@ C:\Users\User\Documents\MicroService\PlatformService\PlatformService\obj\Debug\n
 C:\Users\User\Documents\MicroService\PlatformService\PlatformService\obj\Debug\net6.0\PlatformService.pdb
 C:\Users\User\Documents\MicroService\PlatformService\PlatformService\obj\Debug\net6.0\PlatformService.genruntimeconfig.cache
 C:\Users\User\Documents\MicroService\PlatformService\PlatformService\obj\Debug\net6.0\ref\PlatformService.dll
-C:\Users\User\Documents\MicroService\PlatformService\PlatformService\obj\Debug\net6.0\PlatformService.sourcelink.json
-C:\Users\User\Documents\MicroService\PlatformService\PlatformService\bin\Debug\net6.0\appsettings.Production.json
+C:\Users\User\Documents\MicroService\PlatformService\PlatformService\bin\Debug\net6.0\Google.Protobuf.dll
+C:\Users\User\Documents\MicroService\PlatformService\PlatformService\bin\Debug\net6.0\Grpc.AspNetCore.Server.dll
+C:\Users\User\Documents\MicroService\PlatformService\PlatformService\bin\Debug\net6.0\Grpc.AspNetCore.Server.ClientFactory.dll
+C:\Users\User\Documents\MicroService\PlatformService\PlatformService\bin\Debug\net6.0\Grpc.Core.Api.dll
+C:\Users\User\Documents\MicroService\PlatformService\PlatformService\bin\Debug\net6.0\Grpc.Net.Client.dll
+C:\Users\User\Documents\MicroService\PlatformService\PlatformService\bin\Debug\net6.0\Grpc.Net.ClientFactory.dll
+C:\Users\User\Documents\MicroService\PlatformService\PlatformService\bin\Debug\net6.0\Grpc.Net.Common.dll
